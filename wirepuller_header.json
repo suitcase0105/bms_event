@@ -1,0 +1,6 @@
+{
+  "name": "(event)Wire Puller",
+  "symbol": "",
+  "data_url": "./wirepuller_data.json",
+  "compat_prefix": "_"
+}

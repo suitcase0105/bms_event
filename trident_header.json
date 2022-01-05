@@ -1,0 +1,6 @@
+{
+  "name": "(event)TRIDENT",
+  "symbol": "_",
+  "data_url": "./trident_data.json",
+  "compat_prefix": "_"
+}
