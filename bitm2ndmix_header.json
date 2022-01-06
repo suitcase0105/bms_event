@@ -1,6 +1,6 @@
 {
   "name": "(event)Battle in the Mist 2ndMIX",
   "symbol": "",
-  "data_url": "bitm2ndmix_data.json",
+  "data_url": "./bitm2ndmix_data.json",
   "compat_prefix": "_"
 }
