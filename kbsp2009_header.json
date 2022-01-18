@@ -1,6 +1,6 @@
 {
   "name": "KBSP2009",
-  "symbol": null,
+  "symbol": "",
   "data_url": "kbsp2009_data.json",
   "compat_prefix": ""
 }
